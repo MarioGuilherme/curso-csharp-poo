@@ -1,0 +1,30 @@
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.exe
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.deps.json
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.runtimeconfig.json
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.dll
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.pdb
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.csproj.AssemblyReference.cache
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.AssemblyInfoInputs.cache
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.AssemblyInfo.cs
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.csproj.CoreCompileInputs.cache
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.dll
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\refint\LINQComLambda.dll
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.pdb
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.genruntimeconfig.cache
+C:\Users\mgarodrigues\Downloads\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\ref\LINQComLambda.dll
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.exe
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.deps.json
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.runtimeconfig.json
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.dll
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\bin\Debug\net6.0\LINQComLambda.pdb
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.csproj.AssemblyReference.cache
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.AssemblyInfoInputs.cache
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.AssemblyInfo.cs
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.dll
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\refint\LINQComLambda.dll
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.pdb
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\LINQComLambda.genruntimeconfig.cache
+C:\Users\Mario\Downloads\Curso C# e POO\Curso C# e POO\LINQComLambda\obj\Debug\net6.0\ref\LINQComLambda.dll

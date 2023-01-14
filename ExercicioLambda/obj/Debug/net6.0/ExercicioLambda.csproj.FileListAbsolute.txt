@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\ExercicioLambda\bin\Debug\net6.0\ExercicioLambda.exe
+C:\Users\Mario\source\repos\ExercicioLambda\bin\Debug\net6.0\ExercicioLambda.deps.json
+C:\Users\Mario\source\repos\ExercicioLambda\bin\Debug\net6.0\ExercicioLambda.runtimeconfig.json
+C:\Users\Mario\source\repos\ExercicioLambda\bin\Debug\net6.0\ExercicioLambda.dll
+C:\Users\Mario\source\repos\ExercicioLambda\bin\Debug\net6.0\ExercicioLambda.pdb
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.AssemblyInfo.cs
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.dll
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\refint\ExercicioLambda.dll
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.pdb
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ExercicioLambda.genruntimeconfig.cache
+C:\Users\Mario\source\repos\ExercicioLambda\obj\Debug\net6.0\ref\ExercicioLambda.dll
